@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463383306789",
+    "project_id": "scorify-1",
+    "storage_bucket": "scorify-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463383306789:android:d0dbc122502b08583d15cc",
+        "android_client_info": {
+          "package_name": "com.example.cricify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463383306789-jcpiov1nl2tnkvl3egjm0vjl5c9jmle7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi8zUWaREjMY-q9bkMHzbvjUPITEJ_32Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463383306789-jcpiov1nl2tnkvl3egjm0vjl5c9jmle7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
